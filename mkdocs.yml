@@ -1,0 +1,22 @@
+site_name: josh donnelly
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+
+nav
+  - Home: index.md
+  - Environments: Environments.md
+  - Infrastructure: infra.md
+  - Security: security.md
+  - Diagrams: diagrams.md
+  - Costs: costs.md
+  - Dashboards: dashboard.md
+  - Certification: certifications.md
+
