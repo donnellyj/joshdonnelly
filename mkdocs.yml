@@ -10,13 +10,13 @@ theme:
     - search.highlight
     - search.suggest
 
-nav
+nav:
   - Home: index.md
-  - Environments: Environments.md
+  - Environments: environments.md
   - Infrastructure: infra.md
   - Security: security.md
   - Diagrams: diagrams.md
   - Costs: costs.md
   - Dashboards: dashboard.md
-  - Certification: certifications.md
+  - Certification: certification.md
 
