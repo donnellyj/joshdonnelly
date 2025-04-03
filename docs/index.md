@@ -34,7 +34,7 @@ This site presents a layered view of the unified system, organized for clarity:
 
     🔐 Security & Hardening: System hardening, IAM policies, CIS benchmarks, and Ansible roles
 
-    🛡 SIEM & Incident Response: Wazuh/Graylog deployment, alerting, simulated incident detection
+    🛡 Security Monitoring: Wazuh/Graylog deployment, alerting, simulated incident detection
 
     ☸️ Kubernetes & App Deployments: Cluster configuration, secure deployment of workloads, ingress and network policies
 
