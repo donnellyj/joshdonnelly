@@ -6,21 +6,21 @@ Everything in this portfolio was researched, built, and documented by me to demo
 
 This portfolio presents a fully integrated, secure cloud system with development, staging, and production environments. It is built to showcase:
 
-- Identity & Access Management (IAM) – Okta, OAuth2, Keycloak
+- **Identity & Access Management (IAM)** – Okta, OAuth2, Keycloak
 
-- Infrastructure as Code (IaC) – Terraform, Pulumi, CloudFormation
+- **Infrastructure as Code (IaC)** – Terraform, Pulumi, CloudFormation
 
-- Configuration & Hardening – Ansible, AWS Config, AppConfig, CIS Benchmarks
+- **Configuration & Hardening** – Ansible, AWS Config, AppConfig, CIS Benchmarks
 
-- Cloud Architecture Best Practices – AWS Well-Architected Framework, multi-account, least privilege
+- **Cloud Architecture Best Practices** – AWS Well-Architected Framework, multi-account, least privilege
 
-- Kubernetes & Container Orchestration – EKS, k3s, vanilla Kubernetes
+- **Kubernetes & Container Orchestration** – EKS, k3s, vanilla Kubernetes
 
-- Security Monitoring & SIEM – Wiz, Splunk, Wazuh, Graylog
+- **Security Monitoring & SIEM** – Wiz, Splunk, Wazuh, Graylog
 
-- Data Visualization – Looker, Tableau, Superset, Metabase
+- **Data Visualization** – Looker, Tableau, Superset, Metabase
 
-- Risk & Compliance Methodologies – FAIR methodology, threat modeling
+- **Risk & Compliance Methodologies** – FAIR methodology, threat modeling
 
 All components—deployment, configuration management, hardened AMIs, CI/CD pipelines, secure IAM, monitoring, cost modeling, and dashboards—are part of one cohesive system. This site serves as the front-end to explore, interact with, and understand the full stack securely and transparently.
 
@@ -28,29 +28,29 @@ All components—deployment, configuration management, hardened AMIs, CI/CD pipe
 
 This site presents a layered view of the unified system, organized for clarity:
 
-🌐 Environments: Overview of Dev, Staging, and Prod environments
+    🌐 Environments: Overview of Dev, Staging, and Prod environments
 
-🏗 Infrastructure: Terraform code, architecture diagrams, and automation patterns
+    🏗 Infrastructure: Terraform code, architecture diagrams, and automation patterns
 
-🔐 Security & Hardening: System hardening, IAM policies, CIS benchmarks, and Ansible roles
+    🔐 Security & Hardening: System hardening, IAM policies, CIS benchmarks, and Ansible roles
 
-🛡 SIEM & Incident Response: Wazuh/Graylog deployment, alerting, simulated incident detection
+    🛡 SIEM & Incident Response: Wazuh/Graylog deployment, alerting, simulated incident detection
 
-☸️ Kubernetes & App Deployments: Cluster configuration, secure deployment of workloads, ingress and network policies
+    ☸️ Kubernetes & App Deployments: Cluster configuration, secure deployment of workloads, ingress and network policies
 
-🧩 Applications: Risk management and other workloads deployed securely into the system
+    🧩 Applications: Risk management and other workloads deployed securely into the system
 
-📊 Dashboards: Visualizations of logs, metrics, and security signals
+    📊 Dashboards: Visualizations of logs, metrics, and security signals
 
-💰 Cost Modeling: InfraCost analysis, AWS Pricing scenarios, and optimization strategies
+    💰 Cost Modeling: InfraCost analysis, AWS Pricing scenarios, and optimization strategies
 
-👤 About Me: Background, resume, and contact information
+    👤 About Me: Background, resume, and contact information
 
 📦 Source Repositories
 
-🔒 Private Infrastructure Repo — source code, Terraform, Ansible, configs (not publicly available)
+    🔒 Private Infrastructure Repo — source code, Terraform, Ansible, configs (not publicly available)
 
-🌐 This Site's Source Code — powered by MkDocs + Material theme
+    🌐 This Site's Source Code — powered by MkDocs + Material theme
 
 💡 Philosophy
 
