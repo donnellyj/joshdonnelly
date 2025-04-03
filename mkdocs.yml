@@ -2,18 +2,22 @@ site_name: josh donnelly
 theme:
   name: material
   palette:
+    scheme: slate
     primary: blue grey
     accent: cyan
-  color_mode: dark
-  user_colod_mode_toggle: true
-  highlightjs: true
-
   features:
     - navigation.tabs
     - navigation.expand
+    - navigation.instant
     - search.highlight
     - search.suggest
+    - header.autohide
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/donnellyjdd
 
+repo_url: https://github.com/donnellyj/joshdonnelly
 nav:
   - Home: index.md
   - Environments: environments.md
